@@ -1,0 +1,1 @@
+This is an implementation of GPT2-small, following a collection of guides, mostly Karpathy's video, and optimization tricks from GPT speedruns.

@@ -1,0 +1,17 @@
+[project]
+name = "gpt2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.12.0",
+    "dataclasses>=0.8",
+    "datasets>=4.4.1",
+    "hf-transfer>=0.1.9",
+    "huggingface>=0.0.1",
+    "tiktoken>=0.12.0",
+    "torch>=2.9.1",
+    "transformers>=4.57.3",
+    "wandb>=0.23.1",
+]
